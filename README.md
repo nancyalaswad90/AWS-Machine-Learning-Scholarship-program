@@ -1,1 +1,4 @@
-# AWS-Machine-Learning-Scholarship-program
+
+.
+
+# AWS Machine Learning Scholarship program
