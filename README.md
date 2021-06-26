@@ -16,6 +16,10 @@ The lessons in the AWS Machine Learning Foundations Course have been specially d
 .
 
 
+> ![conr.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1624751052/conr.png)
+
+.
+
 
 
 > ## You must fulfill both of these requirements to be eligible for the Nanodegree program scholarship:
