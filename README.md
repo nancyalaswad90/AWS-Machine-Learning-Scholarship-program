@@ -36,7 +36,7 @@ The lessons in the AWS Machine Learning Foundations Course have been specially d
 -----------------------------------
 
 
-## Start AWS Machine Learning Scholarship Program  day : June 28, 2021
+## Start [AWS Machine Learning Scholarship Program](https://classroom.udacity.com/nanodegrees/nd065/parts/a5a4c41f-9cc7-48bd-9f00-582f35a7da53)  day : June 28, 2021
 
 
 .
