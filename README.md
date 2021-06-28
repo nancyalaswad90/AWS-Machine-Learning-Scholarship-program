@@ -16,7 +16,7 @@ The lessons in the AWS Machine Learning Foundations Course have been specially d
 .
 
 
-> ![conr.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1624751052/conr.png)
+> ![ws.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1624901192/ws.png)
 
 .
 
@@ -47,4 +47,3 @@ The lessons in the AWS Machine Learning Foundations Course have been specially d
 .
 
 
-![ws.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1624900972/ws.png)
